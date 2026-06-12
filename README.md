@@ -5,7 +5,7 @@ MATLAB implementation of three-plane phase retrieval for optical vortex fields u
 
 MATLAB implementation accompanying the work:
 
-**P. A. A. Yasir and J. S. Ivan,**
+**P. A. A. Yasir** and **J. S. Ivan,**
 *Estimation of phases with dislocations in paraxial wave fields from intensity measurements*,
 **Physical Review A** **97**, 023817 (2018).
 
