@@ -9,7 +9,7 @@ MATLAB implementation accompanying the work:
 *Estimation of phases with dislocations in paraxial wave fields from intensity measurements*,
 **Physical Review A** **97**, 023817 (2018).
 
-https://doi.org/10.1103/PhysRevA.97.043838
+https://doi.org/10.1103/PhysRevA.97.023817
 
 This repository implements a three-plane phase retrieval algorithm for paraxial optical fields carrying orbital angular momentum (OAM). The method combines a **partial Fourier transform**, **Fresnel propagation**, and a **Gerchberg-Saxton (GS)** iterative reconstruction algorithm to recover the phase of a complex wave field from intensity-only measurements.
 
