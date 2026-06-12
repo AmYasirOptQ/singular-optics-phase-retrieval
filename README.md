@@ -124,6 +124,32 @@ The demonstration script produces:
 
 ---
 
+## Example Results
+
+The figures below illustrate a typical reconstruction obtained with the three-plane Gerchberg-Saxton algorithm.
+
+### Input and reconstructed fields
+
+|                 Input / Reconstructed Amplitude and Phase                |
+| :----------------------------------------------------------------------: |
+| ![Input and reconstructed amplitude and phase](Input_output_amp_pha.png) |
+
+### GS reconstruction after 100 iterations
+
+|  Reconstruction after 100 GS iterations  |
+| :--------------------------------------: |
+| ![GS iteration 100](GS_iteration100.png) |
+
+### Convergence of the Gerchberg-Saxton algorithm
+
+| Intensity correlation versus iteration |
+| :------------------------------------: |
+|  ![GS convergence](GS_convergence.png) |
+
+These images are generated automatically by `Demo_3plane_phase_retrieval.m` and provide a representative example of the reconstruction quality and convergence behavior of the algorithm.
+
+---
+
 ## Notes
 
 * The implementation follows the conventions and notation used in the accompanying publication.
